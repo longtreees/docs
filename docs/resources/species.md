@@ -4,7 +4,7 @@ This guide provides information about tree species suitable for the LongTrees in
 
 ## Recommended Species
 
-### Bristlecone Pine (Pinus longaeva)
+### Bristlecone Pine (Pinus Aristata)
 - **Potential Lifespan**: 4000-5000 years
 - **Growth Rate**: Very slow
 - **Height**: 20-50 feet
@@ -13,26 +13,36 @@ This guide provides information about tree species suitable for the LongTrees in
   - Drought-resistant
   - Adapted to harsh conditions
   - Distinctive twisted growth
-
-### Giant Sequoia (Sequoiadendron giganteum)
-- **Potential Lifespan**: 2000-3000 years
-- **Growth Rate**: Moderate to fast
-- **Height**: 164-279 feet
+### Quaking Aspen (Populus tremuloides)
+- **Potential Lifespan**: 50-100 years (individual stems), but colonies can live for thousands of years [1]
+- **Growth Rate**: Fast
+- **Height**: 40-70 feet (12-21 meters) [2]
 - **Characteristics**:
-  - Massive trunk diameter
-  - Fire-resistant bark
-  - Prefers well-drained soil
-  - Needs significant space
+  - Colonies formed through extensive root systems
+  - Heart-shaped leaves with flattened stems, causing leaves to "quake" in the wind
+  - Prefers well-drained soil and full sun
+  - Often found in large, single-species stands
 
-### English Oak (Quercus robur)
-- **Potential Lifespan**: 500-1000 years
+### English Yew (Taxus baccata)
+- **Potential Lifespan**: 2,000-4,000 years [3]
+- **Growth Rate**: Slow
+- **Height**: 30-65 feet (9-20 meters) [2]
+- **Characteristics**:
+  - Conical shape with reddish-brown, peeling bark
+  - Dark green, needle-like leaves
+  - Highly toxic seeds and leaves, except for the red aril surrounding the seed
+  - Tolerates a wide range of soils and light conditions
+
+### Ginkgo Biloba
+- **Potential Lifespan**: 1,000-2,500 years [1]
 - **Growth Rate**: Slow to moderate
-- **Height**: 40-70 feet
+- **Height**: 66-115 feet (20-35 meters) [2]
 - **Characteristics**:
-  - Broad, spreading crown
-  - Adaptable to various soils
-  - Strong wildlife value
-  - Cultural significance
+  - Distinctive, fan-shaped leaves with a long stalk
+  - Golden yellow fall color
+  - Can thrive in urban environments, tolerating pollution and compacted soil
+  - Known for its medicinal properties and as one of the oldest living tree species
+
 
 ## Climate Considerations
 
