@@ -14,9 +14,9 @@ This guide provides information about tree species suitable for the LongTrees in
   - Adapted to harsh conditions
   - Distinctive twisted growth
 ### Quaking Aspen (Populus tremuloides)
-- **Potential Lifespan**: 50-100 years (individual stems), but colonies can live for thousands of years [1]
+- **Potential Lifespan**: 50-100 years (individual stems), but colonies can live for thousands of years 
 - **Growth Rate**: Fast
-- **Height**: 40-70 feet (12-21 meters) [2]
+- **Height**: 40-70 feet (12-21 meters) 
 - **Characteristics**:
   - Colonies formed through extensive root systems
   - Heart-shaped leaves with flattened stems, causing leaves to "quake" in the wind
@@ -24,9 +24,9 @@ This guide provides information about tree species suitable for the LongTrees in
   - Often found in large, single-species stands
 
 ### English Yew (Taxus baccata)
-- **Potential Lifespan**: 2,000-4,000 years [3]
+- **Potential Lifespan**: 2,000-4,000 years 
 - **Growth Rate**: Slow
-- **Height**: 30-65 feet (9-20 meters) [2]
+- **Height**: 30-65 feet (9-20 meters) 
 - **Characteristics**:
   - Conical shape with reddish-brown, peeling bark
   - Dark green, needle-like leaves
@@ -34,9 +34,9 @@ This guide provides information about tree species suitable for the LongTrees in
   - Tolerates a wide range of soils and light conditions
 
 ### Ginkgo Biloba
-- **Potential Lifespan**: 1,000-2,500 years [1]
+- **Potential Lifespan**: 1,000-2,500 years 
 - **Growth Rate**: Slow to moderate
-- **Height**: 66-115 feet (20-35 meters) [2]
+- **Height**: 66-115 feet (20-35 meters) 
 - **Characteristics**:
   - Distinctive, fan-shaped leaves with a long stalk
   - Golden yellow fall color
